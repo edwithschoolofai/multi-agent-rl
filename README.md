@@ -1,6 +1,6 @@
 # 멀티-에이전트 강화 학습
 
-[DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [DDPG](https://arxiv.org/abs/1509.02971) 그리고 [MADDPG](https://arxiv.org/abs/1706.02275) 구현은 OpenAI의 [multi-agent particle environment](https://github.com/openai/multiagent-particle-envs) 를 플레이하기 위한 것입니다.
+OpenAI의 [multi-agent particle environment](https://github.com/openai/multiagent-particle-envs) 에서 술래잡기를 플레이하기 위해 [DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [DDPG](https://arxiv.org/abs/1509.02971), 그리고 [MADDPG](https://arxiv.org/abs/1706.02275)를 구현하였습니다 
 
   DQN 1 vs 1  |   DQN 1 vs 2  |   DQN 2 vs 1
 :------------:|:-------------:|:-------------:
